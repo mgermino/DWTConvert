@@ -1,0 +1,322 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <html>
+
+<head>
+<title>Energy Resource Center: Sustainable Building Case Study</title>
+<meta name="description" content="Describes the sustainable design features of the Energy Resource Center commercial conference facility located in Downey, California, including resource and energy efficiency, and improved indoor air quality. One of several case studies of 'green buildings' developed by the California Integrated Waste Management Board.">
+<meta name="creator" content="California Department of Resources Recycling and Recovery (CalRecycle).">
+<meta name="date" content="2003-11-14">
+<meta name="date.modified" content="2008-09-18">
+<meta name="portal category" content="Environment and Natural Resources">
+<meta name="language" content="en">
+<meta http-equiv="Content-Language" content="en-us">
+
+<script type="text/javascript" language="javascript" src="/js/common.js"></script>
+<link rel="stylesheet" href="/CSS/defaultTrans.css" type="text/css">
+<script type="text/javascript" language="javaScript">
+<!--
+
+
+
+//-->
+</script>
+</head>
+
+<body bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+<!--webbot bot="Include" U-Include="../../_private/Header.htm" TAG="BODY" startspan -->
+<!-- ************************************************************* -->
+<!-- heading.htm include                                           -->
+<!-- Last updated 12/29/2009 by P. Lettington                      -->
+<!-- Based on State standard version 1.20, last updated 03/23/2007 -->
+<!-- ************************************************************* -->
+
+
+<div id="heading">
+	<div id="search_and_skipto">
+		<div id="skipto_container">Skip to: <a href="#middle_column">Content</a> | <a href="#footer">Footer</a> | 
+			<a href="/Accessibility.htm">Accessibility</a></div>
+		<!-- ************************************************************* -->
+<!-- search.htm include                                            -->
+<!-- Last updated 03/15/2012 by R. Jones                           -->
+<!-- Based on State standard version 1.20, last updated 04/20/2007 -->
+<!-- ************************************************************* -->
+
+<div id="search_container">
+
+	<!-- NO CHANGES to this first form, the Statewide "California" search form -->
+	<form id="ca_form" method="get" action="http://www.ca.gov/CaSearch/Default.aspx">
+		<div>
+			<input name="q" type="hidden" value="" size="32" />
+		</div>
+	</form>
+
+<!-- Site search starts here -->
+	<form id="local_form" method="get" action="/Search/default.asp">
+		<div>
+			<input name="q" type="hidden" size="32" />
+    		<input type="hidden" name="cx" value="017557373779849962485:erv3s56gka0" />
+    		<input type="hidden" name="cof" value="FORID:10" />
+    		<input type="hidden" name="ie" value="UTF-8" />
+		</div>
+	</form>
+
+	<form id="control" action="/Search/default.asp" onsubmit="return selectSearch();">
+		<p id="textfield_container">
+			<label for="search" accesskey="s" class="hidden">Search: </label>
+			<input type="text"  id="search" name="search" size="20" maxlength="32" value="Search" onfocus="if(this.value=='Search')this.value=''" onblur="if(this.value=='')this.value='Search'" />
+		</p>
+
+		<p id="radio_container">
+			<span>
+			<input type="radio" name="which" id="ca" value="ca" class="radiobutton" />
+			<label for="ca" accesskey="c">California</label>&nbsp;&nbsp;
+			<input type="radio" name="which" id="local" value="local" class="radiobutton" checked="checked" />
+			<label for="local" accesskey="l">CalRecycle</label>
+			</span>
+		</p>
+		<p id="submit_container">
+			<input type="image" alt="Search" title="Go Search" id="submitbutton" name="submit" src="/images/CAStandard/ca_master/search_button.gif" width="26" height="26" />
+		</p>
+	</form>
+
+</div>
+	</div>
+
+	<a id="state_logo" href="http://www.ca.gov/"><span class="hidden">CA.GOV</span></a><span class="hidden"> | </span>
+	<a id="agency_branding" href="/"><img src="/images/CAStandard/ca_department/heading_department.gif" alt="California Department of Resources Recycling and Recovery (CalRecycle)" width="239" height="70" /></a>
+
+</div>
+
+<div id="navigation">
+<ul id="nav_list">
+  <li><a href="/">Home<span></span></a>
+    <ul>
+      <li><a href="/Search/">Search</a></li>
+      <li><a href="/Index/">Index</a></li>
+      <li><a href="/StaffDirectory/">Staff Directory</a></li>      
+      <li><a href="/AboutUs/Location/">Location/Directions</a></li>     
+      <li><a href="/ContactUs/">Contact Us</a></li>
+      <li><a href="/Help/">Help</a></li>
+    </ul>
+  </li>
+    <li><a href="/ReduceWaste/">Reduce Waste<span></span></a>
+    <ul>
+      <li><a href="/ReduceWaste/">Reduce</a></li>
+      <li><a href="/Reuse/">Reuse</a></li>
+      <li><a href="/EPR/">Producer Responsibility</a></li>
+      <li><a href="/ReduceWaste/Schools/">Schools/Districts</a></li>
+      <li><a href="/ReduceWaste/Business/">Businesses</a></li>
+    </ul>
+  </li>
+  <li><a href="/Recycle/">Recycle<span></span></a>
+    <ul>
+      <li><a href="/Recycle/">General Info</a></li>
+      <li><a href="/UsedOil/Centers/">Used Oil/Filters</a></li>
+      <li><a href="/Electronics/Collection/RecyclerSearch.aspx">EWaste</a></li>
+      <li><a href="/BevContainer/">Beverage Containers</a></li>
+    </ul>
+  </li>
+  <li><a href="/BuyRecycled/">Buy Recycled<span></span></a>
+    <ul>
+      <li><a href="/BuyRecycled/">Buy Recycled Home</a></li>
+      <li><a href="/EPP/">Environmentally Preferable Purchasing</a></li>
+      <li><a href="/RCP/">Recycled Product Directory</a></li>
+      <li><a href="/RecycleStore/">RecycleStore</a></li>
+    </ul>
+  </li>
+    <li><a href="/BevContainer/">Beverage Containers<span></span></a>
+    <ul>
+      <li><a href="/BevContainer/Consumers/">Consumers</a></li>
+      <li><a href="/BevContainer/Industry/">Industry</a></li>
+      <li><a href="/BevContainer/Notices/">Notices</a></li>
+      <li><a href="/BevContainer/LawsRegs/">Laws &amp; Regulations</a></li>
+      <li><a href="/BevContainer/Publications/">Publications</a></li>
+    </ul>
+  </li>  
+  <li><a href="/Enforcement/">Enforcement<span></span></a>
+    <ul>
+      <li><a href="/Enforcement/Facilities.htm">Waste Facilities</a></li>
+      <li><a href="/UsedOil/Enforcement/">Used Oil</a></li>
+      <li><a href="/Tires/Enforcement/">Waste Tires</a></li>
+      <li><a href="/LGCentral/Enforcement/">Waste Diversion</a></li>
+      <li><a href="/Enforcement/Orders/">Enforcement Orders</a></li>
+      <li><a href="/LEA/">Local Enforcement Agencies (LEA)</a></li>
+    </ul>
+  </li>
+    <li><a href="/LocalAssist/">Local Partners<span></span></a>
+    <ul>
+      <li><a href="/LEA/">Local Enforcement Agencies (LEA Central)</a></li>
+      <li><a href="/LGCentral/">Local Waste Diversion Coordinators (LGCentral)</a></li>
+      <li><a href="/Grants/">Grant &amp; Loan Programs</a></li>
+    </ul>
+  <li><a href="/AboutUs/">About Us<span></span></a>
+    <ul>
+      <li><a href="/AboutUs/ProgramResp/">Program Responsibilities</a></li>
+      <li><a href="/AboutUs/Location/">Location/Directions</a></li>
+      <li><a href="/ContactUs/">Contact Us</a></li> 
+    </ul>
+  </li>
+</ul>
+	
+<div id="background_top"></div>
+</div>
+
+<!--webbot bot="Include" i-checksum="4590" endspan --><table border="0" width="100%" cellspacing="0" cellpadding="4">
+  <tr>
+    <td class="LeftNavCell" rowspan="3" width="20%">
+    <p class="LeftNavLineSp">&nbsp;</p>
+    	<!--webbot bot="Include" U-Include="../../_private/LeftNavMenu.htm" TAG="BODY" startspan -->
+
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../../">Green Building Home</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../../ToolKit.htm">Green 
+Building Tool Kit</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="/ConDemo/default.htm">Construction and Demolition Recycling</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../../Grants/default.htm">Contracts and Grants</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../../Design/">Project Design 
+Elements</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../../Partnerships/">Programs &amp; Partnerships</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../../Residential">Residential</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../../Schools/">Schools</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../">Case Studies</a></p>
+<p class="LeftNavLineSp"><a class="LeftNavLink" href="../../Links/">Links</a></p>
+<p><a class="LeftNavLink" href="../../Events/">Events</a></p>
+
+<!--webbot bot="Include" i-checksum="23680" endspan --></td>
+    <td valign="top" width="1"></td>
+    <td valign="top">
+    <p class="PageBranding">Sustainable (Green) Building</p>
+    <h1>Energy Resource Center</h1>
+        <td rowspan="2" width="1"></td>
+    <td valign="top">
+    <p><img border="0" src="../images/ERC.jpg" align="right" width="300" height="239"><strong>Location:</strong> 9240 E. Firestone Blvd.,           
+Downey, CA<strong><br />        
+Type of building:</strong>  Educational Facility<strong><br />        
+Size (Sq. ft.):</strong> 45,000<strong><br />        
+ Renovation </strong>into a                   
+combination conference and information center on current                   
+energy-efficient technologies, which focus on cost-savings and environmental                   
+conservation.&nbsp;<strong><br />
+Date completed:</strong>  February 1,                  
+1995<strong><br />
+Cost: </strong> 7.9 Million<strong><br />        
+Owner:</strong> Southern California Gas Company<strong><br />        
+Designed By: </strong> Wolff/Lang/Christopher Architects, Inc.</p>
+	<h2><strong>Sustainable Building Strategies:</strong> &nbsp;</h2>                 
+
+<p> Approximately 80 percent of construction materials, interior                  
+furnishings, and displays were recycled or the products of recycled materials or                  
+manufacturing processes using renewable resources. This building exceeds Title 24 energy code by 45 percent. The                   
+Energy Resource Center demonstrates modern energy technologies, including HVAC                   
+systems, indoor air quality and industrial processes.&nbsp;</p>                  
+
+<p><strong>Information Contact: </strong>To                   
+arrange a tour call (562) 803-7500.  For                   
+other information, contact Frank Spasaro, Facility Manager, (562) 803-7400.</p>                   
+
+<p><strong>Web Site:</strong> <a href="http://www.socalgas.com/business/resourceCenter/ercCase.html">www.socalgas.com/business/resourceCenter/ercCase.html</a>  
+</p>               
+
+	<h2 class="ListIntro"><strong>Examples of Reused Materials</strong></h2> 
+
+<ul>
+  <li><strong>Ceiling Tiles:</strong> Undamaged ceiling tiles were cleaned and trimmed down to 11x24 
+    inches.</li>
+</ul>
+
+<p class="ListIntro"><strong>Other Reused Products<br /> 
+</strong>The following used materials from the old buildings were either used in construction of  
+the ERC, sent to recycling centers, or given to builders who could use them:</p>  
+
+<ul>
+  <li>Asphalt</li>
+  <li>Metal</li>
+  <li>Glass</li>
+  <li>Concrete</li>
+  <li>Wood</li>
+  <li>Porcelain plumbing fixtures</li>
+  <li>Debris</li>
+  <li>Lamp ballasts</li>
+  <li>Paper</li>
+</ul>
+
+	<h2 class="ListIntro"><strong>Examples of Recycled-Content Products</strong></h2> 
+
+<ul>
+  <li><strong>Wood floor: </strong>The entire wood floor in the Energy Resource Center's reception area  
+    was milled from Douglas fir beams and posts from the old Banana Republic warehouse in San  
+    Francisco. (Oregon Lumber, 800-824-5671.)</li> 
+  <li><strong>Carpeting: </strong>Tile carpeting featured at the ERC uses 50 percent recycled material in  
+    the face of the carpeting. At the end of the carpet's useful life, the manufacturer will  
+    reclaim the product for recycling. The carpet can be recycled because the structured  
+    backing allows the carpet face to be separated from it. (Interface Flooring,  
+    800-336-0225.)</li>
+  <li><strong>Reinforcement bars: </strong>These are made from unique sources--confiscated weapons and  
+    used oil filters. (Tamco, 909-899-0660.)</li> 
+  <li><strong>Staircase: </strong>Although modified to meet safety codes, the staircase has already seen  
+    a lot of action. It was salvaged from the set of blockbuster movie  
+    &quot;Disclosure.&quot; (Warner Brothers.)</li> 
+  <li><strong>Accent wall: </strong>The ERC's reception area features an internal wall made from recycled  
+    aircraft aluminum and Gridcore made from 100 percent recycled fiber. (Peter Carlson  
+    Enterprises, 818-767-0791.)</li> 
+  <li><strong>Entry walkway: </strong>Scraps of PVC pipe, used by the gas company to transport natural  
+    gas, were added to the concrete mix to add color. </li> 
+  <li><strong>Desk countertop: </strong>The decorative countertop of the reception desk is made of 100  
+    percent recycled glass. (Glass Tech, 310-202-6002.)</li> 
+  <li><strong>Panels for exhibits: </strong>People get their money's worth when they see an exhibit at  
+    this facility! The ERC features several displays which are mounted on Gridcore made from  
+    federal reserve notes.</li> 
+</ul>
+
+	<h2 class="ListIntro"><strong>Examples of Energy-Efficient Measures</strong></h2> 
+
+<ul>
+  <li><strong>State-of-the art lighting:</strong> The overhead lighting at the facility will use 1 watt/sq. ft. (compared to 1.5 watts used in most buildings). This upgraded lighting at the 
+    facility is projected to save $21,000 to $30,000 annually in electricity.</li>
+  <li><strong>Use of old facility:</strong> By using the old facility, the gas company estimates that 
+    they saved $3.2 million in land, utility infrastructure, and building material costs. 
+    (Design and construction costs totaled $7.9 million.)</li>
+</ul>
+
+<p><strong>Energy Resource Center Case Study: </strong><em><a href="http://www.calrecycle.ca.gov/Publications/default.asp?pubid=469">
+Gas Company Recycles Itself and Pilots Energy-Efficient, Recycled Product 
+Showcase</a></em></p> 
+
+	<p><strong>Note</strong>: The identification of individuals, companies and products in these materials  
+does not constitute endorsement by the CIWMB and is provided for informational purposes  
+only. The CIWMB is distributing this information in an effort to increase public awareness  
+and knowledge about this important topic.</p>
+
+        <td valign="bottom">
+    <p class="Updated">&nbsp;</p>
+    <p class="Updated">Last updated: 
+    <!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%B %d, %Y" startspan
+    -->April 19, 2010<!--webbot bot="Timestamp" i-checksum="17781" endspan --></p>
+    <!--webbot bot="Include" U-Include="../../_private/FooterMain.htm" TAG="BODY" startspan -->
+
+<hr>
+
+<address>Green Building&nbsp; <a href="/GreenBuilding/">http://www.calrecycle.ca.gov/GreenBuilding/</a><br />
+  Greg Dick: <a href="mailto:Gregory.Dick@calrecycle.ca.gov">Gregory.Dick@calrecycle.ca.gov</a>	(916) 341-6489</address>
+<!--webbot bot="Include" i-checksum="37813" endspan --></td>
+  </tr>
+</table>
+
+<!-- ************************************************************ -->
+<!-- footer.htm include                                           -->
+<!-- Last updated 01/03/2012 by P. Lettington                     -->
+<!-- Based on State standard version 1.20, last updated 3/23/2007 -->
+<!-- ************************************************************ -->
+
+	<div id="footer">
+	  <div>
+		<a href="#heading">Back to Top</a> | <a href="/Help/">Help</a> | <a href="/ContactUs/">Contact Us</a> | <a href="/Index/">Site Index</a>
+		<span></span>
+	  </div>
+	  <p><span class="hidden"> | </span><a href="/Help/SiteInfo.htm">Conditions of Use</a> | 
+		<a href="/Help/SiteInfo.htm#INFO">Privacy Policy</a><br />
+	  <a href="/Copyright.htm">&copy;1995, 2012</a> California Department of Resources Recycling and Recovery (CalRecycle). All rights reserved.</p>
+	</div>
+
+</body>
+
+</html>

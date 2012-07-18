@@ -1,0 +1,75 @@
+	<!-- #EndEditable -->
+	<!-- #BeginEditable "OptionalMetas" -->
+	<meta name="keywords" content="Keywords can be entered here if needed." />
+	<meta name="DRRR.date.nextreview" scheme="ISO8601" content="1900-MM-DD" />
+	<meta name="DRRR.reviewfor" content="Reason for review needed if next review date used." />
+	<meta name="DRRR.date.archived" scheme="ISO8601" content="1900-MM-DD" />
+	<!-- #EndEditable -->
+	<meta name="DC.creator" content="California epartment of Resources Recycling and Recovery (CalRecycle)" />
+	<meta name="DC.language" scheme="ISO639-2" content="eng" />
+	
+	<script type="text/javascript" src="http://inetstaging.calrecycle.net/javascript/navigation.js"></script>
+	<script type="text/javascript" src="http://inetstaging.calrecycle.net/javascript/department.js"></script>
+	
+	<link rel="stylesheet" type="text/css" href="http://inetstaging.calrecycle.net/CSSShared/CAStandard/ca_master.css" />
+	<link rel="stylesheet" type="text/css" href="http://inetstaging.calrecycle.net/CSSShared/CAStandard/ca_department.css" />
+	<link rel="stylesheet" type="text/css" href="http://inetstaging.calrecycle.net/CSSShared/CAStandard/navigation_2_level.css" />
+	<link rel="stylesheet" type="text/css" href="http://inetstaging.calrecycle.net/CSSShared/CAStandard/content_2_column.css" />
+	<link rel="stylesheet" type="text/css" href="http://inetstaging.calrecycle.net/CSS/DRRR_color_scheme.css" />
+	<link rel="stylesheet" type="text/css" href="http://inetstaging.calrecycle.net/CSS/DRRR_master.css" />
+	
+	<!-- #BeginEditable "ActiveTab" -->
+	<!-- Change the "defaultMainList" value to the desired tab name.  -->
+	<script type="text/javascript">
+	<!--
+	
+	var defaultMainList = "Local Partners";
+	
+	// -->
+	</script>
+	<!-- #EndEditable -->
+	
+	<!-- #BeginEditable "MiscHeadCode" -->
+	<!-- #EndEditable -->
+	</head>
+	
+	<body>
+	<!--#include virtual="/ssi/heading.htm" -->
+	
+	<div id="main_content_1">
+	<div id="main_content_2">
+	
+	<div id="left_column">
+	<div class="left_column_top">
+	<p class="ColumnHeading">&nbsp;</p>
+	<ul class="list_decorative_scheme">
+	<li><a href="http://inetstaging.calrecycle.net/LEA/Advisories/">LEA
+	Advisories Home</a></li>
+	<li><a href="http://inetstaging.calrecycle.net/LEA/Communicate.htm">LEA
+	Communications</a></li>
+	<li><a href="http://inetstaging.calrecycle.net/SWFacilities/CIA/">
+	Closed  Illegal and Abandoned (CIA) Disposal Sites</a></li>
+	<li>
+	<a href="http://inetstaging.calrecycle.net/Enforcement/Facilities.htm">
+	Enforcement</a></li>
+	<li>
+	<a href="http://inetstaging.calrecycle.net/SWFacilities/Permitting/">
+	Permit Tool Box</a></li>
+	<li><a href="http://inetstaging.calrecycle.net/LEA/Index.htm">Index</a></li>
+	<li><a href="http://inetstaging.calrecycle.net/LEA/">LEA Central</a></li>
+	</ul>
+	</div>
+	<!-- <div class="column_inner">
+	<p class="ColumnHeading">Bottom Heading</p>
+	<ul class="list_decorative_scheme">
+	<li><a href="http://www.calrecycle.ca.gov/">Link 1</a></li>
+	<li><a href="http://www.calrecycle.ca.gov/">Link 2</a></li>
+	
+	</ul>
+	</div> -->
+	
+	</div>
+	
+		<div id="middle_column">
+			<div class="column_inner">
+				<!-- #BeginEditable "PageBranding" -->

@@ -1,0 +1,4 @@
+pyuic4 -x main.ui -o main2.py
+
+in python directory:
+python cxfreeze out2.py --base-name=Win32GUI --target-dir distst

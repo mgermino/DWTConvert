@@ -1,0 +1,24 @@
+			<!-- #EndEditable -->
+  <div id="PageInfo">  
+     
+<address>LEA Advisories    
+ <a href="http://inetstaging.calrecycle.net/LEA/Advisories/default.htm">  
+ http://www.calrecycle.ca.gov/LEA/Advisories/</a><br />  
+ Leta Forland: <a href="mailto:Leta.Forland@calrecycle.ca.gov">  
+ Leta Forland</a> (916) 341-6395</address>  
+  
+  </div>      
+   </div>  
+  </div>  
+  
+  <div class="cleaner">&nbsp;</div>  
+  
+ </div>  
+</div>  
+  
+<div class="cleaner">&nbsp;</div>  
+  
+<!--#include virtual="/ssi/footer.htm" -->  
+  
+</body>  
+<!-- #EndTemplate -->  

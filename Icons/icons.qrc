@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Free MP3 Converter-256.png</file>
+    <file>Write-Document-48.png</file>
+  </qresource>
+</RCC>
