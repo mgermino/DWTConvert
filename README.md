@@ -1,9 +1,10 @@
-RSA Encryption
+Page Converter
 ===================
 
-A series of functions that are necessary to implement RSA encryption. These functions run tests that show
-that they are properly working.
+This is a program written to convert California html pages to pages that use a DWT. 
+
+Currently it is a mess and needs to cleaned up.
 
 
-Written in Python 3.x.x
+Written in Python 3.x.x and cx_freeze
 ===================
