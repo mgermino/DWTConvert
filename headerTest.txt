@@ -1,24 +1,24 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
 
 
 
-<!-- #BeginTemplate "http://inetstaging.calrecycle.net/LEA/_private/Advise2Col.dwt" -->
+<!-- #BeginTemplate "http://inetstaging.calrecycle.net/laws/_private/LegHistory2Col.dwt" -->
 
 
 
-<!-- ************************************** -->
+<!-- **************************************** -->
 
-<!-- Main template for LEAAdvisory site     -->
+<!-- Leg History template                     -->
 
-<!-- Last updated 12/09/2010 B. Wong        -->
+<!-- Last updated 12/31/2009 by P. Lettington -->
 
-<!-- Based on State Master Template         -->
+<!-- Based on State Master Template           -->
 
-<!-- Version 1.20  last updated 03/23/2007  -->
+<!-- Version 1.20  last updated 03/23/2007    -->
 
-<!-- ************************************** -->
+<!-- **************************************** -->
 
 
 

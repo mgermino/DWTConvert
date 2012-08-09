@@ -1,5 +1,0 @@
-replace <ul type="square"> to <ul>
-
-remove <thead> </thead>
-
-convert tables

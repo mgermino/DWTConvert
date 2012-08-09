@@ -1,11 +1,11 @@
 			<!-- #EndEditable -->
   <div id="PageInfo">  
-     
-<address>LEA Advisories    
- <a href="http://inetstaging.calrecycle.net/LEA/Advisories/default.htm">  
- http://www.calrecycle.ca.gov/LEA/Advisories/</a><br />  
- Leta Forland: <a href="mailto:Leta.Forland@calrecycle.ca.gov">  
- Leta Forland</a> (916) 341-6395</address>  
+   <span class="Updated">Last updated: <!-- #BeginEditable "LastUpdatedOn" -->  
+   Month DD  YYYY<!-- #EndEditable --></span><br />  
+<address>Legislation and Statutes   
+ <a href="http://inetstaging.calrecycle.net/Laws/Legislation/">  
+ http://www.calrecycle.ca.gov/Laws/Legislation/</a><br />  
+ Legislative Affairs Office: (916) 341-6283</address>  
   
   </div>      
    </div>  
